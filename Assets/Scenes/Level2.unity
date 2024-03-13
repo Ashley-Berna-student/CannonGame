@@ -2039,7 +2039,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   scoreDisplay: {fileID: 1111847283}
   scoreAnimator: {fileID: 571354677}
-  nextLevel: 0
+  nextLevel: 1
 --- !u!4 &1337603978
 Transform:
   m_ObjectHideFlags: 0

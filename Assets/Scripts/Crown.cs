@@ -25,6 +25,7 @@ public class Crown : MonoBehaviour
             Score score = FindObjectOfType<Score>();
             if ( (score))
             {
+                print("You Win");
                 score.EndLevel();
             }
 
